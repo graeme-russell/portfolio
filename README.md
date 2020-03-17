@@ -6,7 +6,7 @@ Examples of my data analytics and coding skills.
 
 Developed computer vision software using physics and MATLAB scripting skills; produced an actionable report with commentary for further development, earned commendation from faculty members.
 
-This scipt recreates ball-tracking sporting technologies by recording a short video from two webcams and identifies a "ball like object", optical and classical physics is then used to infer the position of the ball in three dimensions.
+This scipt recreates ball-tracking sporting technologies by recording a short video from two webcams and identifing a "ball like object" using machine learning tools, optical and classical physics is then used to infer the position of the ball in three dimensions.
 
 ## ESRScript
 
