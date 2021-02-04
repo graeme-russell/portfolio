@@ -22,7 +22,7 @@ This proof-of-concept script shows that latent profile analysis (LPA) can be use
 
 ## Fortune Most Admired Web Scraping Project 
 
-Work smarter, not harder. Automated the tabulation of publically available fortune's most admired list, including archived data from 2011 onwards.
+Work smarter, not harder. Automated the tabulation of publically available fortune's most admired list, including archived data from 2006 onwards.
 
 This project required two scripts, both had to be slightly modified each year due to different sources. archives.r iteratively takes data from a table for each letter of the alphabet, including the URL for more detailed information. webscrape.r then takes the URL and scrapes for the required information.
 
